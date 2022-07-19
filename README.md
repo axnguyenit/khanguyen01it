@@ -1,11 +1,8 @@
 <div align="center">
   <h2> 
-    Hi <img src="./assets/hi.gif" width="30px"> I'm Nguyen Dinh Kha
+    Hi <img src="./assets/hi.gif" width="20px"> I'm Nguyen Dinh Kha (Ax Nguyen)
   </h2>
-  <p align="center">Front end and Web Developer</p>
-</div>
-<div align="center">
-    <img alt="Profile View" src="https://gpvc.arturio.dev/axnguyenit" />
+  <p align="center">Software Engineer</p>
 </div>
 
 ## GitHub Profile Trophy
@@ -23,9 +20,4 @@
     <img height="192px" src="https://github-readme-stats.vercel.app/api/?username=axnguyenit&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5" />
     <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axnguyenit&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5" />
 
-</div>
-
-## Activity Graph
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=axnguyenit&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
